@@ -1,0 +1,23 @@
+*Description*
+
+Here's my first python project!
+The goal is to build a password manager
+
+*Questions:*
+
+    - How password managers work?
+    - What hashing function to use?
+    
+*Task:*
+
+    - Create a SQL Database
+    - Create basic terminal interfaces
+    - Hash Passwords
+    
+    
+*Requirements:*
+
+    - User needs to be able to type in site or app name or URL and get back password
+    - PW store in SQL
+    - PW retrieve from SQL
+    - Auto copy PW to clipboard.
