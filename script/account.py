@@ -56,7 +56,7 @@ def add_account(a_pwd, a_email, a_url, a_service):
 def find_password(f_email, f_service):
     """Find and decode password"""
     # 01 - Declare user1 from credentials
-    user1 = credential.u1
+    user1 = credential.dbManager01
 
     # 02 - Connection to MangoDB
     collections = connection_to_db(user1.name, user1.password, user1.db)
